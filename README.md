@@ -4,7 +4,7 @@ Between Aug 2024 - Dec 2025, I was a graduate student at Arizona State Universit
 
 In my last semester (Fall 2025), I took GIT 598 Special Topics - Introduction to Web Coding. At the time of writing (first week of classes), I have found that I enjoy seeing my coding work come to life; as a designer, I can create the ideas, and as a developer, I can actually implement them. I value this greatly as it will help me to understand my coworkers more and be able to (somewhat) meet them where they are at.
 
-Some hobbies:
+## Some hobbies:
 1. 🏹 This past year, I've been learning archery!
 2. 🎮 I built my own computer in order to play videogames with my friends.
 3. 🎓 My first career was in education, and I am passionate about bridging gaps. Feel free to visit [my website](https://beccawoo.github.io) to learn more about my journey.
@@ -15,4 +15,5 @@ Some hobbies:
 
 ---
 While exploring some options for widgets I could put into this, I found this joke generator that I thought was silly. 
+
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
